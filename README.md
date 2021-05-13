@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tahiri-fatima
+- 👋 Hi, I’m Tahiri fatima
 - 👀 I’m interested in IT development
 - 🌱 I’m currently learning master's degree in information systems engineering
 
